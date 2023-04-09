@@ -1,0 +1,93 @@
+
+body{
+    background-color: black;
+
+}
+
+.panda{
+    max-width: 300px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+
+.sign-in{
+    background-color: rgb(32, 32, 32);
+    
+    box-sizing: border-box;
+
+    max-width: 470px;
+    height: 659px;
+    width: 470px;
+
+    margin-bottom: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 32px;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    /* overflow-x: hidden; */
+    /* overflow-y: auto; */
+
+    padding-bottom: 60px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 50px;
+
+}
+
+.gmail{
+    width: 250px;
+    height: 35px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+   font-size: medium;
+}
+
+.pass{
+    width: 250px;
+    height: 35px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    font-size: medium;
+}
+
+.boton{
+    background-color: rgb(48, 54, 137);
+    border-color: rgb(48, 54, 137);
+    
+    height: 50px;
+    width: 300px;
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+
+    font-size: medium;
+
+}
+
+.text, .link{
+    color: azure;
+    /* margin-right: 0em; */
+    margin-left: 4.5em;
+}
+
+.link{
+    margin-left: 1em;
+    color: aqua;
+}
